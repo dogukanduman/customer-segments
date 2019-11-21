@@ -1,4 +1,4 @@
-Report is [here](./customer_segments.ipynb). If you can not view report, you can download project and check the **customer_segments.html** with a browser.
+Report is [here](./customer_segments.ipynb). If you can not view the report, you can download project and check the **customer_segments.html** with a browser.
 
 # Machine Learning Engineer Nanodegree
 # Unsupervised Learning
